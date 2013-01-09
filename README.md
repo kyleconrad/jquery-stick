@@ -52,4 +52,4 @@ Dual licensed under MIT and GPL. Feel free to clone, modify, and use at will, as
 Contact
 ============
 
-Kyle Conrad - kyle@kyleconrad.com - http://www.kyleconrad.com - @kyle_conrad
+Kyle Conrad - kyle@kyleconrad.com - http://www.kyleconrad.com - @kyle_conrad 
