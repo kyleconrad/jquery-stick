@@ -34,7 +34,7 @@ Description of options:
 
 "bottompadding" - number of pixels below element (within the container) to remove the stickyclass and replace it with the endclass.
 
-"container" - the container that holds your element that you want it to be referenced against.
+"container" - the container that holds your element that you want it to be referenced against (make sure to have the leading period).
 
 "stickyclass" - the class to be added when sticky (be sure not to have the leading period).
 
