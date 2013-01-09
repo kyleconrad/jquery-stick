@@ -6,10 +6,12 @@
  * @author Kyle Conrad
  * @version 0.1
  * 
- * $('.block').stickem({
+ * $('.block').stick({
  *      offset: 0,
  *      bottompadding: 0,
- *      container: '.container'
+ *      container: '.container',
+ *      stickyclass: 'stick',
+ *      endclass: 'stick-end'
  * });
 */
 
